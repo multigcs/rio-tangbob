@@ -11,7 +11,7 @@ cheap universal-board for LinuxCNC-RIO
 * I2C - 5V (hope this will work via the level-shifter)
 
 
-[rio-tangbob.jpg](rio-tangbob.jpg)
+![rio-tangbob](rio-tangbob.jpg)
 
 
 Kicad-Footprint for the TangNano9K:
