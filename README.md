@@ -2,9 +2,7 @@
 
 cheap universal-board for LinuxCNC-RIO
 
-**UNTESTED**
-
-**U3+U4 needs lower voltage, because they connected to pin's of the 1.8V bank**
+**NOT ALL TESTED**
 
 * W5500
 * Level-Shifter (TXS0108E)
