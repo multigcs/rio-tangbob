@@ -1405,7 +1405,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1087f1c2-bc44-43ea-8fe4-149a2ee89c5f")
-		(property "Reference" "J2"
+		(property "Reference" "J4"
 			(at 147.32 96.5199 0)
 			(effects
 				(font
@@ -1482,7 +1482,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "41de5949-7335-48a4-8b23-63233b4e2884")
-		(property "Reference" "J1"
+		(property "Reference" "J3"
 			(at 120.65 60.96 0)
 			(effects
 				(font
