@@ -2,8 +2,6 @@
 
 cheap universal-board for LinuxCNC-RIO
 
-**NOT ALL TESTED**
-
 * W5500
 * Level-Shifter (TXS0108E)
 * RGB-LED
